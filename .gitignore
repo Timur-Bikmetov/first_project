@@ -1,0 +1,22 @@
+# Виртуальные окружения
+venv/
+env/
+.venv/
+my_venv/
+test_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# Временные
+tmp_data.txt
