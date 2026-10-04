@@ -20,3 +20,4 @@ Thumbs.db
 
 # Временные
 tmp_data.txt
+.env
